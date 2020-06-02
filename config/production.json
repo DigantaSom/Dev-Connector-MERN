@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://diganta:diganta@cluster0-gnxup.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "2b52cc0d0c477f8ba540",
+    "githubSecret": "4715b575c44c569fcc67904811e35f55724e4e89"
+}
